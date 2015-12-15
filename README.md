@@ -10,3 +10,5 @@ Then this boilerplate might be just what you are looking for!
 - [Flask Python framework](http://flask.pocoo.org/)
 
 [MIT](https://github.com/rlfrahm/unreal-engine-api/blob/master/LICENSE) licensed. Contribute back!
+
+&hearts; [rlfrahm](https://github.com/rlfrahm)
